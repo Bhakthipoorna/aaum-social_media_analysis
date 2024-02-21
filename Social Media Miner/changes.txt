@@ -1,0 +1,11 @@
+1. instagram_analysis.py : cast name should be chenged only in config files, in the code i'm hardcoded it.[Create a dictionary with key as insta id and value as modified name in cinfig file only, then map it instead renaming name manulayy in the code]
+2. Same in the insta_cast_analysis.py
+3. In yotube_analysis adding languages to the videos manually in the code.
+4. If we are going to add any new tags in Youtube or Twitter, that should be added in the codes only.
+5. Adding keywords for the entity.(All the 4 platforms)( should create new config file for the keywords)
+6. twitter_cast_anlysis: cast names changing in the code only(similar to insta_cast_analysis).
+7. Overall_nps_entity, in data fetching query competitor movie names excluded manually in the code.
+8. Media handles analysis, keywords added manually in the code.( shpould be create a new tag in tw_config file)
+
+
+# Prepare the in such a way that whatever the changes required, we should make it in the config file only. (for the New movie)
